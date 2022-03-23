@@ -1,0 +1,36 @@
+body {  
+    background-color: #b4b6c2; 
+    margin: 0 5%;  
+    font-family: sans-serif;     
+}
+
+h1 {  
+    text-align: center;  
+    font-family: serif;  
+    font-weight: normal; 
+    text-transform: uppercase;  
+    border-bottom: 1px solid #57b1dc; 
+    margin-top: 30px;
+}
+
+h2, h3
+{ 
+  background-color: #f0e0f0;
+  color: #000000;  
+  font-size: 1em;
+  padding: 2px;
+}
+
+li{
+    background-color: #ffffff;
+    color: #000000 ;
+}
+
+nav, footer{
+    background-color: #f0e0f0;
+}
+
+.responsive {
+   width: 100%; 
+   height: auto;
+}
